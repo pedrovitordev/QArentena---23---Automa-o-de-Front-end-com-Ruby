@@ -18,7 +18,7 @@ Curso com o principal objetivo de automatizar alguns cenários de testes de cada
 
 Foram utilizadas as seguintes tecnologias:
 
-- [Ruby](https://www.jetbrains.com/ruby/)
+- [Ruby](https://www.ruby-lang.org/pt/)
 - [Capybara](https://github.com/teamcapybara/capybara)
 - [Cucumber](https://cucumber.io/)
 
